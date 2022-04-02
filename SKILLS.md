@@ -15,7 +15,7 @@
 | 🟩 expression        | 🟦 do..while          | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
 | 🟩 stack             | 🟦 f--                | 🟦 l-----             | 🟦 -----            | 🟦 c---------        |
 | 🟩 heap              | 🟦 for                | 🟦 lambda             | 🟦 stack            | 🟦 complexity        |
-| 🟦 type              | 🟨 for..in            | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
+| 🟩 type              | 🟨 for..in            | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
 | 🟩 primitive types   | 🟨 for..of            | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
 | 🟩 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
 | 🟦 flag              | 🟦 throw              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
