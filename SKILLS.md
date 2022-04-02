@@ -4,8 +4,8 @@
 
 ## Fundamental concepts
 
-| Syntax               | Statements            | Functions             | Data structures     | Process & style      |
-|----------------------|-----------------------|-----------------------|---------------------|----------------------|
+| Syntax               | Statements             | Functions             | Data structures      | Process & style       |
+|----------------------|----------------------- |-----------------------|----------------------|-----------------------|
 | 🟩 value             | 🟦 if                 | 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
 | 🟩 identifier        | 🟦 loops              | 🟦 function           | 🟦 instance         | 🟦 code review       |
 | 🟩 variable          | 🟦 assignment         | 🟦 return             | 🟦 object           | 🟦 antipatterns      |
@@ -13,10 +13,11 @@
 | 🟩 scalar            | 🟦 class              | 🟦 argument           | 🟦 hash table       | 🟦 algorithm         |
 | 🟦 literal           | 🟦 while              | 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |
 | 🟩 expression        | 🟦 do..while          | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
+| 🟦 stack             | 🟦 f--                | 🟦 l-----             | 🟦 -----            | 🟦 c---------        |
 | 🟦 heap              | 🟦 for                | 🟦 lambda             | 🟦 stack            | 🟦 complexity        |
 | 🟦 type              | 🟨 for..in            | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
 | 🟦 primitive types   | 🟨 for..of            | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
-| 🟦 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
+| 🟩 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
 | 🟦 flag              | 🟦 throw              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
 | 🟦 lexical scope     | 🟦 try..catch         | 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
 | 🟦 code block        | 🟦 equality operators | 🟦 higher order       | 🟨 Map              | 🟦 unreachable code  |
