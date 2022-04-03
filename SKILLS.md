@@ -14,8 +14,8 @@
 | 🟩 literal           | 🟩 break, continue    | 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |
 | 🟩 expression        | 🟩 do..while          | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
 | 🟩 stack             | 🟩 while              | 🟦 -----              | 🟩 heap             | 🟦 ---------         |
-| 🟩 heap              | 🟩 for                | 🟦 lambda             | 🟩 stack            | 🟦 complexity        |
-| 🟩 type              | 🟩🟨 for..in         | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
+| 🟩🟨 type of        | 🟩 for                | 🟦 lambda             | 🟩 stack            | 🟦 complexity        |
+| 🟩🟨 instanceof     | 🟩🟨 for..in         | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
 | 🟩 primitive types   | 🟩🟨 for..of         | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
 | 🟩 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
 | 🟩 flag              | 🟦 throw              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
@@ -28,10 +28,10 @@
 | 🟨 async function    | 🟨 new Error          | 🟦 factory            | 🟨 string parsing   | ⬜️ prettier          |
 | 🟨 call, bind, apply |                       | 🟦 pool               | 🟨 timers           | 🟦 unittest          |
 | 🟨 Array             |                       | 🟦 wrapper            | 🟨 EventEmitter     | 🟦 git               |
-| 🟨 instanceof        |                       | 🟨 default parameters | 🟨 RegExp           | 🟦 github            |
+| 🟨 ...rest           |                       | 🟨 default parameters | 🟨 RegExp           | 🟦 github            |
 | 🟨 ...spread         |                       |                       | 🟨 global           | 🟨 node.js           |
-| 🟨 ...rest           |                       |                       | 🟨 undefined        | 🟨 npm               |
-| 🟩🟨 typeof         |                       |                       | 🟦 null             |                      |
+|                      |                       |                       | 🟨 undefined        | 🟨 npm               |
+|                      |                       |                       | 🟦 null             |                      |
 
 ## Multi-paradigm programming
 
