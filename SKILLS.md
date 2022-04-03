@@ -6,14 +6,14 @@
 
 | Syntax               | Statements             | Functions             | Data structures      | Process & style       |
 |----------------------|----------------------- |-----------------------|----------------------|-----------------------|
-| 🟩 value             | 🟩 if                 | 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
+| 🟩 value             | 🟩 if...else          | 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
 | 🟩 identifier        | 🟩 loops              | 🟦 function           | 🟦 instance         | 🟦 code review       |
 | 🟩 variable          | 🟩 assignment         | 🟦 return             | 🟦 object           | 🟦 antipatterns      |
 | 🟩 constant          | 🟨 prototype          | 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
-| 🟩 scalar            | 🟦 class              | 🟦 argument           | 🟦 hash table       | 🟦 algorithm         |
-| 🟩 literal           | 🟩 while              | 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |
+| 🟩 scalar            | 🟩 switch             | 🟦 argument           | 🟦 hash table       | 🟦 algorithm         |
+| 🟩 literal           | 🟩 break, continue    | 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |
 | 🟩 expression        | 🟩 do..while          | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
-| 🟩 stack             | 🟦 ---                | 🟦 -----              | 🟩 heap             | 🟦 ---------         |
+| 🟩 stack             | 🟩 while              | 🟦 -----              | 🟩 heap             | 🟦 ---------         |
 | 🟩 heap              | 🟩 for                | 🟦 lambda             | 🟩 stack            | 🟦 complexity        |
 | 🟩 type              | 🟩🟨 for..in         | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
 | 🟩 primitive types   | 🟩🟨 for..of         | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
@@ -23,8 +23,8 @@
 | 🟩 code block        | 🟦 equality operators | 🟦 higher order       | 🟨 Map              | 🟦 unreachable code  |
 | 🟨 Object            | 🟦 logical operators  | 🟦 callback           | 🟨 Set              | 🟦 duplicate code    |
 | 🟨 this              | 🟦 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
-| 🟨 arrow function    | 🟦 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
-| 🟨 generator         | 🟦 switch             | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
+| 🟨 arrow function    | 🟦 class              | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
+| 🟨 generator         | 🟦                    | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
 | 🟨 async function    | 🟨 new Error          | 🟦 factory            | 🟨 string parsing   | ⬜️ prettier          |
 | 🟨 call, bind, apply |                       | 🟦 pool               | 🟨 timers           | 🟦 unittest          |
 | 🟨 Array             |                       | 🟦 wrapper            | 🟨 EventEmitter     | 🟦 git               |
