@@ -13,10 +13,10 @@
 | 🟩 scalar            | 🟦 class              | 🟦 argument           | 🟦 hash table       | 🟦 algorithm         |
 | 🟩 literal           | 🟩 while              | 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |
 | 🟩 expression        | 🟦 do..while          | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
-| 🟩 stack             | 🟦 f--                | 🟦 l-----             | 🟩 heap            | 🟦 c---------        |
+| 🟩 stack             | 🟦 f--                | 🟦 l-----             | 🟩 heap             | 🟦 c---------        |
 | 🟩 heap              | 🟦 for                | 🟦 lambda             | 🟩 stack            | 🟦 complexity        |
-| 🟩 type              | 🟨 for..in            | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
-| 🟩 primitive types   | 🟨 for..of            | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
+| 🟩 type              | 🟩🟨 for..in         | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
+| 🟩 primitive types   | 🟩🟨 for..of         | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
 | 🟩 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
 | 🟩 flag              | 🟦 throw              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
 | 🟩 lexical scope     | 🟦 try..catch         | 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
@@ -31,7 +31,7 @@
 | 🟨 instanceof        |                       | 🟨 default parameters | 🟨 RegExp           | 🟦 github            |
 | 🟨 ...spread         |                       |                       | 🟨 global           | 🟨 node.js           |
 | 🟨 ...rest           |                       |                       | 🟨 undefined        | 🟨 npm               |
-| 🟨 typeof            |                       |                       | 🟦 null             |                      |
+| 🟩🟨 typeof         |                       |                       | 🟦 null             |                      |
 
 ## Multi-paradigm programming
 
