@@ -6,15 +6,15 @@
 
 | Syntax               | Statements             | Functions             | Data structures      | Process & style       |
 |----------------------|----------------------- |-----------------------|----------------------|-----------------------|
-| 🟩 value             | 🟩 if...else          | 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
-| 🟩 identifier        | 🟩 loops              | 🟦 function           | 🟦 instance         | 🟦 code review       |
-| 🟩 variable          | 🟩 assignment         | 🟦 return             | 🟦 object           | 🟦 antipatterns      |
+| 🟩 value             | 🟩 if...else          | 🟩 recursion          | 🟦 array            | 🟦 refactoring       |
+| 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟦 instance         | 🟦 code review       |
+| 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟦 object           | 🟦 antipatterns      |
 | 🟩 constant          | 🟨 prototype          | 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
-| 🟩 scalar            | 🟩 switch             | 🟦 argument           | 🟦 hash table       | 🟦 algorithm         |
-| 🟩 literal           | 🟩 break, continue    | 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |
+| 🟩 scalar            | 🟩 switch             | 🟩 argument           | 🟦 hash table       | 🟦 algorithm         |
+| 🟩 literal           | 🟩 break, continue    | 🟩 parameter          | 🟦 linked list      | 🟦 magic numbers     |
 | 🟩 expression        | 🟩 do..while          | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
 | 🟩 stack             | 🟩 while              | 🟦 -----              | 🟩 heap             | 🟦 ---------         |
-| 🟩🟨 type of        | 🟩 for                | 🟦 lambda             | 🟩 stack            | 🟦 complexity        |
+| 🟩🟨 type of        | 🟩 for                | 🟩 lambda             | 🟩 stack            | 🟦 complexity        |
 | 🟩🟨 instanceof     | 🟩🟨 for..in         | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
 | 🟩 primitive types   | 🟩🟨 for..of         | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
 | 🟩 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
