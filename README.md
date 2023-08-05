@@ -4,4 +4,4 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, Python, PHP, HTML, CSS</code>
-<code>📦 Tech stack: node.js</code>
+<code>📦 Tech stack: Node.js, React, Bootstrap, VS, npm, Git </code>
